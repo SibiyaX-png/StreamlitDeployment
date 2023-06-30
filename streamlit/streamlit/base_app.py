@@ -202,8 +202,8 @@ def main():
 
 	# Buidling out the "Main" page
 	if selection == "Main":
-		st.title("Techno Sense Classifier:")
-		st.image('app.png', use_column_width=False)
+		st.title("App Classifier:")
+		#st.image('app.png', use_column_width=False)
 		st.markdown("""
 		Team members:
 		* **Vhukhudo Matidza** 
